@@ -10,7 +10,8 @@
   "dependencies": [],
   "loggers": ["weconnect"],
   "codeowners": [
-    "@mitch-dc"
+    "@mitch-dc",
+    "@sliepie"
   ],
   "iot_class": "cloud_polling",
   "version": "1.0"
